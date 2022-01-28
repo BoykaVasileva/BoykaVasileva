@@ -1,11 +1,4 @@
-- 👋 Hi, I’m @BoykaVasileva
+- 👋 Hi, I am a Talent Partner Assistant at Tide - The UK’s leading provider of smart current accounts for sole traders and small companies. My role in the company is hiring motivated, organized and business oriented individuals with hands-on experience (but also those with little or even no experience) who are passionate about technology and staying up to date with new tools, trends, methodologies as they love learning new things.
 - 👀 I’m interested in Psychology, Human Resources and Recruitment.
 - 🌱 I’m currently learning Economic Sociology and Psychology.
-- 💞️ I’m looking to collaborate on the fintech roles I am presenting/proposing on for Tide.
-- 📫 How to reach me: boyka.vasileva@tide.co
-- 
-- 
-<!---
-BoykaVasileva/BoykaVasileva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me: boyka.vasileva@tide.co; 𝗙𝗲𝗲𝗹 𝗳𝗿𝗲𝗲 𝘁𝗼 𝗿𝗲𝗮𝗰𝗵 𝗺𝗲 𝗼𝘂𝘁 𝗶𝗳 𝘆𝗼𝘂 𝗮𝗿𝗲 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁𝗲𝗱 𝗶𝗻 𝘀𝗼𝗺𝗲 𝗼𝗳 𝘁𝗵𝗲 𝗳𝗼𝗹𝗹𝗼𝘄𝗶𝗻𝗴 𝗽𝗼𝘀𝗶𝘁𝗶𝗼𝗻𝘀: "𝙆𝙔𝘾 𝘼𝙣𝙖𝙡𝙮𝙨𝙩"......"𝙎𝙚𝙣𝙞𝙤𝙧 𝙈𝙤𝙗𝙞𝙡𝙚 (Flutter) 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧"....."𝙎𝙩𝙖𝙛𝙛 𝙒𝙚𝙗 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧 (𝘼𝙣𝙜𝙪𝙡𝙖𝙧 2+)"........."𝙎𝙚𝙣𝙞𝙤𝙧 𝙒𝙚𝙗 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧" 
